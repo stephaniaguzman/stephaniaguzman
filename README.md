@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stephania 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Telecommunications+engineer;Integrations+at+Oracle;Moving+into+ML+research;Teaching+assistant+at+PUCP&font=Fira+Code&center=true&vCenter=true&width=470&height=46&size=21&color=1C5F64&duration=3200" alt="Telecommunications engineer, integrations at Oracle, moving into ML research" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Telecommunications+engineer;Systems+integration+in+production;Moving+into+ML+research;Coding+theory+meets+machine+learning&font=Fira+Code&center=true&vCenter=true&width=520&height=46&size=21&color=1C5F64&duration=3200" alt="Telecommunications engineer, systems integration in production, moving into ML research" />
 </p>
 
 <p align="center">
@@ -14,15 +14,17 @@
 
 ### 👩‍💻 About me
 
-Telecommunications engineer from **Lima, Peru**. I build systems integrations at
-Oracle — APIs, OIC, SQL and Python — and I'm moving toward **empirical machine
-learning research**.
+Telecommunications engineer based in **Lima, Peru**. I design and ship **systems
+integrations in production** — REST APIs, SQL and Python — and I'm moving toward
+**empirical machine learning research**.
 
 Long term, I'm drawn to where machine learning meets **quantum error correction**:
 it is coding theory over a noisy channel, which happens to be the toolkit I
 already trained on.
 
-I also teach networks and telecommunications as a **teaching assistant at PUCP**.
+I've taught networks and telecommunications at university level, which is where I
+learned that explaining a system clearly is the fastest way to find out whether
+you actually understand it.
 
 ### 🔭 What I'm working on
 
@@ -32,18 +34,43 @@ I also teach networks and telecommunications as a **teaching assistant at PUCP**
 | 📄 | Reproducing published results in interpretability and evaluation |
 | ✍️ | Writing about both on [my blog](https://stephaniaguzman.github.io) |
 
-### 🛠️ Day to day
+### 🧰 Tech stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Integration-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Data & APIs**
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Tooling**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 📚 Currently learning
+**Learning right now**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### 🔬 Research interests
+
+- **Evaluation** — building evals that measure what a model actually does, rather than what a benchmark happens to reward
+- **Multilingual behavior** — how model quality degrades across Spanish variants, and what monolingual benchmarks hide
+- **Interpretability** — reading what happens inside a model, not only what comes out of it
+- **Machine learning for quantum error correction** — decoding syndromes with neural networks: coding theory over a noisy channel, in an unfamiliar substrate
+- **Reliability of model-driven systems** — what breaks when a model is a component in a production pipeline instead of a chat window
+
+### ✍️ Writing
+
+I write about what I'm learning at **[stephaniaguzman.github.io](https://stephaniaguzman.github.io)** — mostly experiments that did not work the first time, and what the second attempt taught me.
 
 ---
 
