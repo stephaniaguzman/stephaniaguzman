@@ -36,9 +36,8 @@ themselves — and being accountable for how they behave.
 ### 🎓 Background
 
 - **BSc in Sciences, major in Telecommunications Engineering** — Pontificia Universidad Católica del Perú. A mathematics- and physics-heavy engineering science degree, with protocols and distributed systems as the specialisation.
-- **Two years building production data pipelines** for enterprise clients in banking, mining, consumer goods and education — 15 integrations shipped across 5 client projects: data mapping, transformation logic, quality validation and reconciliation, plus the failure handling and monitoring that keeps them running.
+- **Two years building production data pipelines** for enterprise clients in banking, mining, consumer goods and education: data mapping, transformation logic, quality validation and reconciliation, plus the failure handling and monitoring that keeps them running.
 - **Undergraduate research thesis** on the architecture of a centralised cloud platform for IoT data management: protocol selection, role-based access, security and cost analysis.
-- Taught computer networks and ICT at university level — 60+ students, 50+ lab guides written — which is where I learned that explaining a system clearly is the fastest way to find out whether you actually understand it.
 
 ---
 
