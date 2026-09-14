@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stephania 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Telecommunications+engineer;Networks+and+distributed+systems;Moving+into+ML+systems+research;Evaluation+at+scale&font=Fira+Code&center=true&vCenter=true&width=520&height=46&size=21&color=1C5F64&duration=3200" alt="Telecommunications engineer, networks and distributed systems, moving into machine learning systems research" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+learning+systems+and+evaluation;What+makes+a+model-driven+system+reliable%3F;Distributed+systems%2C+applied+to+models;Doing+the+research+in+public&font=Fira+Code&center=true&vCenter=true&width=520&height=46&size=21&color=1C5F64&duration=3200" alt="Machine learning systems and evaluation: what makes a model-driven system reliable" />
 </p>
 
 <p align="center">
@@ -12,18 +12,20 @@
 
 ---
 
-### 🧭 Research direction
+I'm a telecommunications engineer from **Lima, Peru**, with a background in networks
+and distributed systems, moving into **machine learning systems and evaluation**.
 
-**What makes a system built on models actually reliable?**
+My working question: *what makes a system built on models actually reliable?* A model
+is only as trustworthy as your ability to measure what it does — and measuring at
+scale is a systems problem before it is a modelling one.
 
-I come from networks and distributed systems — routing, cloud architecture, and
-shipping integrations that have to keep working when a component fails. I'm moving
-that toward **machine learning systems**: the infrastructure that trains, serves and
-evaluates models, and the failure modes that only show up at scale.
+- 🔭 **Currently working on:** reproducible evaluation for model-driven systems, and writing about what the benchmarks quietly fail to capture
+- 🌱 **Currently learning:** PyTorch, agent frameworks and tool-calling, and the mathematics behind neural decoders for quantum error correction
+- 💬 **Ask me about:** networks and routing, cloud architecture, systems integration in production, IoT platforms
+- ✍️ **Writing at:** [stephaniaguzman.github.io](https://stephaniaguzman.github.io) — in English and Spanish, mostly experiments that did not work the first time
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/stephaniaguzman/) · stephania.guzman@outlook.com
 
-**Evaluation** is the part I care most about. A model is only as trustworthy as your
-ability to measure what it does — and measuring at scale is a systems problem before
-it is a modelling one.
+---
 
 ### 🎓 Background
 
@@ -31,6 +33,22 @@ it is a modelling one.
 - **Undergraduate research thesis** on the architecture of a centralised cloud platform for IoT data management — protocol selection, role-based access, security and cost analysis
 - Three years designing and shipping **systems integrations in production** for enterprise clients
 - Taught networks and telecommunications at university level, which is where I learned that explaining a system clearly is the fastest way to find out whether you actually understand it
+
+---
+
+### 📜 Certifications
+
+<!-- Ajusta esta tabla a la realidad: deja solo lo que de verdad has hecho o estás
+     haciendo, y borra las filas que no apliquen. "In progress" es honesto y suma;
+     una certificación inventada se cae en la primera conversación. -->
+
+| Certification | Issuer | Status |
+|---|---|---|
+| OCI AI Foundations Associate | Oracle | In progress |
+| OCI Enterprise AI Professional | Oracle | Planned |
+| Agentic AI Professional | Oracle | Planned |
+
+---
 
 ### 🔬 What I'm interested in
 
@@ -40,7 +58,9 @@ it is a modelling one.
 - **Interpretability** — reading what happens inside a model, not only what comes out of it
 - **Multilingual evaluation** — where model quality degrades across languages and language varieties, and what English-only benchmarks miss
 
-### 🧰 Tech stack
+---
+
+### 🧰 Tech Stack & Tools
 
 **Languages**
 
@@ -60,10 +80,6 @@ it is a modelling one.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-### ✍️ Writing
-
-I write in **English and Spanish** at **[stephaniaguzman.github.io](https://stephaniaguzman.github.io)** — mostly experiments that did not work the first time, and what the second attempt taught me.
 
 ---
 
