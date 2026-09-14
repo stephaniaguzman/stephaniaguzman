@@ -12,16 +12,21 @@
 
 ---
 
-I'm a telecommunications engineer from **Lima, Peru**, with a background in networks
-and distributed systems, moving into **machine learning systems and evaluation**.
+I'm an engineer with a science background, based in **Lima, Peru**. I work on
+integrations and cloud infrastructure, and I'm moving into **machine learning
+systems and evaluation**.
 
 My working question: *what makes a system built on models actually reliable?* A model
 is only as trustworthy as your ability to measure what it does — and measuring at
-scale is a systems problem before it is a modelling one.
+scale is a systems problem before it is a modelling one. I tend to want the concrete
+number before I accept the claim, which turns out to be the same instinct.
 
-- 🔭 **Currently working on:** reproducible evaluation for model-driven systems, and writing about what the benchmarks quietly fail to capture
+The short version of why: I want to stop being a *user* of AI systems and start
+building them.
+
+- 🔭 **Currently working on:** reproducible evaluation for model-driven systems, and writing about what benchmarks quietly fail to capture
 - 🌱 **Currently learning:** PyTorch, agent frameworks and tool-calling, and the mathematics behind neural decoders for quantum error correction
-- 💬 **Ask me about:** networks and routing, cloud architecture, systems integration in production, IoT platforms
+- 💬 **Ask me about:** systems integration in production, cloud architecture, and what actually breaks when a model becomes a component in a pipeline
 - ✍️ **Writing at:** [stephaniaguzman.github.io](https://stephaniaguzman.github.io) — in English and Spanish, mostly experiments that did not work the first time
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/stephaniaguzman/) · stephania.guzman@outlook.com
 
@@ -33,20 +38,6 @@ scale is a systems problem before it is a modelling one.
 - **Undergraduate research thesis** on the architecture of a centralised cloud platform for IoT data management — protocol selection, role-based access, security and cost analysis
 - Three years designing and shipping **systems integrations in production** for enterprise clients
 - Taught networks and telecommunications at university level, which is where I learned that explaining a system clearly is the fastest way to find out whether you actually understand it
-
----
-
-### 📜 Certifications
-
-<!-- Ajusta esta tabla a la realidad: deja solo lo que de verdad has hecho o estás
-     haciendo, y borra las filas que no apliquen. "In progress" es honesto y suma;
-     una certificación inventada se cae en la primera conversación. -->
-
-| Certification | Issuer | Status |
-|---|---|---|
-| OCI AI Foundations Associate | Oracle | In progress |
-| OCI Enterprise AI Professional | Oracle | Planned |
-| Agentic AI Professional | Oracle | Planned |
 
 ---
 
@@ -74,12 +65,16 @@ scale is a systems problem before it is a modelling one.
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
+**Cloud & integration** — what I work with daily
+
+![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)
+![OIC](https://img.shields.io/badge/Oracle%20Integration%20Cloud-C74634?style=flat-square&logo=oracle&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
 **Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
