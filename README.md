@@ -12,8 +12,9 @@
 
 ---
 
-I'm an engineer with a science background, based in **Lima, Peru**. I work on
-integrations and cloud infrastructure, and I'm moving into **machine learning
+I'm a **telecommunications engineer** from **Lima, Peru**. I design and ship systems
+integrations in production — cloud platforms, APIs, and orchestration between systems
+that were never built to talk to each other — and I'm moving into **machine learning
 systems and evaluation**.
 
 My working question: *what makes a system built on models actually reliable?* A model
@@ -38,6 +39,15 @@ building them.
 - **Undergraduate research thesis** on the architecture of a centralised cloud platform for IoT data management — protocol selection, role-based access, security and cost analysis
 - Three years designing and shipping **systems integrations in production** for enterprise clients
 - Taught networks and telecommunications at university level, which is where I learned that explaining a system clearly is the fastest way to find out whether you actually understand it
+
+---
+
+### 🎓 Background
+
+- **BSc in Sciences, major in Telecommunications Engineering** — Pontificia Universidad Católica del Perú. A mathematics- and physics-heavy engineering science degree, with networks, protocols and distributed systems as the specialisation.
+- **Three years building systems integrations in production** for enterprise clients — designing the flows, writing the transformations, and being the person who gets called when a pipeline between two systems stops working.
+- **Undergraduate research thesis** on the architecture of a centralised cloud platform for IoT data management: protocol selection, role-based access, security and cost analysis.
+- Taught networks and telecommunications at university level, which is where I learned that explaining a system clearly is the fastest way to find out whether you actually understand it.
 
 ---
 
